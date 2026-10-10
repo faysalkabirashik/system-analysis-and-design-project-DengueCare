@@ -131,8 +131,8 @@ This project is for academic and educational purposes only.
 
 ## 👨‍💻 Developer
 
-- **Name:** Feroz Mahmud  
-- **Student ID:** 2030036  
-- **Email:** [2030036@iub.edu.bd](mailto:2030036@iub.edu.bd)
+- **Name:** Md. Foysal Kabir Ashik
+- **Name:** Feroz Mahmood 
+
 
 ---
